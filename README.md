@@ -1,0 +1,41 @@
+<h1 align="center">Hi, I'm Lee 👋</h1>
+
+<p align="center">
+  <b>Robots and LLM agents that you can check.</b><br>
+  University of Seoul · Seoul, Korea
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/MuJoCo-0A0A0A?style=flat-square">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
+</p>
+
+---
+
+### How I build
+
+**The model proposes, code decides.** An LLM handles the parts that need judgement.
+Every number it sees, every limit it must respect, and every claim it cites goes
+through deterministic code. Robots get the same treatment: a plan is checked after
+every step, and the robot stops when reality disagrees with it.
+
+### Projects
+
+| | Project | What it does |
+|---|---|---|
+| 📈 | [**Sigma-Engine**](https://github.com/isopink/Sigma-Engine) | Autonomous trading agent for Korean equities. Claude Code agents argue, a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/Sigma-Engine/) |
+| 🚁 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | Crazyflie flies room to room using an IFC-based 3D dynamic scene graph as its map. |
+| 🤖 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers objects as CLIP embeddings and drives back to them with Nav2. |
+| 🦿 | [**Sim2Real-Walking-Robot**](https://github.com/Pseudo-Lab/Sim2Real-Walking-Robot) | Pseudo-Lab S13. PPO locomotion trained in MuJoCo, deployed on low-cost bipeds, Sim-to-Real gap measured. |
+| 🏢 | [**why-this-company**](https://github.com/isopink/Interview_prep_agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* |
+| 📑 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
+| 🗓️ | [**CareerLog**](https://github.com/isopink/CareerLog) | AI job-search journal built at the 2026 Codex Community Hackathon. |
+
+### Now
+
+- 🚁 Same-floor drone demo in the real building, end of November 2026
+- 🤖 Object-finder robot demo, 26 November 2026
