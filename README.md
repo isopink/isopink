@@ -37,8 +37,8 @@
 
 <table>
   <tr>
-    <td width="240" valign="top">
-      <a href="https://github.com/isopink/3ddsg-drone-navigation"><img src="assets/work-flight.gif" width="240" alt="A Crazyflie drone flying down a dark hallway"></a><br>
+    <td width="300" valign="top">
+      <a href="https://github.com/isopink/3ddsg-drone-navigation"><img src="assets/work-flight.gif" width="300" alt="A Crazyflie drone flying down a dark hallway"></a><br>
       <sub><b>3ddsg-drone-navigation</b><br>Crazyflie flight test, at night</sub>
     </td>
     <td valign="top">
