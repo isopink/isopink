@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lee 👋</h1>
 
 <p align="center">
-  <b>I build things that act on the real world.</b><br>
+  <b>I build things that interact with the real world and create real value.</b><br>
   University of Seoul · Seoul, Korea
 </p>
 
@@ -18,9 +18,10 @@
 
 ### What I care about
 
-A drone in a real building, a robot in a real room, an agent with a real account.
-Robots and LLM agents are the tools. The goal is the moment the system leaves the
-simulator or the prompt and has to deal with what is actually there.
+A robot that finds the thing you lost. A drone that gets through a real building.
+An agent that grows a real account. A service that gets someone ready for an interview.
+Robots and LLM agents are the tools. What counts is whether something outside the
+screen is better than it was.
 
 The real world does not forgive a wrong number or a missed wall, so the model
 proposes and code decides: every limit is enforced in code, every plan is checked
