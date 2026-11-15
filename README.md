@@ -6,12 +6,32 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <sub><b>Robotics</b></sub><br>
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/Nav2-1F6FB2?style=flat-square">
   <img src="https://img.shields.io/badge/MuJoCo-0A0A0A?style=flat-square">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/TurtleBot3-2E3440?style=flat-square">
+  <img src="https://img.shields.io/badge/Crazyflie-1B1B1B?style=flat-square">
+  <img src="https://img.shields.io/badge/IfcOpenShell-4B5563?style=flat-square">
+  <br><br>
+  <sub><b>AI & agents</b></sub><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square">
+  <img src="https://img.shields.io/badge/Whisper-10A37F?style=flat-square">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+  <img src="https://img.shields.io/badge/Upstage_Solar-7C3AED?style=flat-square">
+  <br><br>
+  <sub><b>Languages & backend</b></sub><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
 ---
