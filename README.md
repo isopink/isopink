@@ -28,6 +28,32 @@
 
 ---
 
+### Now <sub><sub>November 2026</sub></sub>
+
+- 🤖 Getting [object-finder-bot](https://github.com/isopink/object-finder-bot) from tests onto the robot: a TurtleBot3 with a Jetson on board, live demo on **Nov 26**.
+- 🚁 First route flight of [3ddsg-drone-navigation](https://github.com/isopink/3ddsg-drone-navigation) through a real building, guided by its scene graph. Lab demo at **the end of November**.
+
+### Snapshots
+
+<table>
+  <tr>
+    <td width="240" valign="top">
+      <a href="https://github.com/isopink/3ddsg-drone-navigation"><img src="assets/work-flight.gif" width="240" alt="A Crazyflie drone flying down a dark hallway"></a><br>
+      <sub><b>3ddsg-drone-navigation</b><br>Crazyflie flight test, at night</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/isopink/steps-before-crashes"><img src="assets/work-seoul.png" width="100%" alt="Map of Seoul's legal dongs shaded by expected pedestrian crashes, with ten numbered inspection candidates"></a><br>
+      <sub><b>steps-before-crashes</b><br>Expected crashes per dong, and the 10 dongs to inspect first</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://isopink.github.io/Sigma-Engine/"><img src="assets/work-sigma.jpg" width="100%" alt="Sigma-Engine dashboard: cumulative return of the agent against the KODEX 200 index"></a><br>
+      <sub><b>Sigma-Engine</b> · live dashboard: the agent's account against the KODEX 200 index</sub>
+    </td>
+  </tr>
+</table>
+
 ### What I care about
 
 **Value lives outside the screen.** A robot that finds the thing you lost, a drone
