@@ -30,14 +30,16 @@
 
 ### What I care about
 
-A robot that finds the thing you lost. A drone that gets through a real building.
-An agent that grows a real account. A service that gets someone ready for an interview.
-Robots and LLM agents are the tools. What counts is whether something outside the
-screen is better than it was.
+**Value lives outside the screen.** A robot that finds the thing you lost, a drone
+that gets through a real building, a service that gets someone ready for an interview.
+Robots and LLM agents are the tools. What counts is whether something real got better.
 
-The real world does not forgive a wrong number or a missed wall, so the model
-proposes and code decides: every limit is enforced in code, every plan is checked
-against what the sensors and the data say, and the system stops when they disagree.
+**People make the decisions.** The system brings the evidence: the numbers, the source,
+what it saw and where. The person chooses. A good tool leaves people better at deciding,
+not out of the loop.
+
+**Failure is data.** Every fall, every lost flight, every wrong guess gets recorded and
+becomes the next rule. I write down what works and what doesn't yet, side by side.
 
 ### In the physical world
 
