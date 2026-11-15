@@ -54,7 +54,7 @@ becomes the next rule. I write down what works and what doesn't yet, side by sid
 | | Project | What it does |
 |---|---|---|
 | 📈 | [**Sigma-Engine**](https://github.com/isopink/Sigma-Engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/Sigma-Engine/) |
-| 🏢 | [**why-this-company**](https://github.com/isopink/Interview_prep_agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* |
+| 🏢 | [**Interview_prep_agent**](https://github.com/isopink/Interview_prep_agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
 | 🗓️ | [**CareerLog**](https://github.com/isopink/CareerLog) | AI job-search journal built at the 2026 Codex Community Hackathon. |
 
 ### Tools I made along the way
