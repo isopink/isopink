@@ -49,10 +49,11 @@ becomes the next rule. I write down what works and what doesn't yet, side by sid
 | 🤖 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
 | 🦿 | [**Sim2Real-Walking-Robot**](https://github.com/Pseudo-Lab/Sim2Real-Walking-Robot) | Pseudo-Lab S13. Walking policies trained in MuJoCo, run on low-cost bipeds, and the gap between the two measured. |
 
-### In markets and data
+### In cities, markets and data
 
 | | Project | What it does |
 |---|---|---|
+| 🚶 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
 | 📈 | [**Sigma-Engine**](https://github.com/isopink/Sigma-Engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/Sigma-Engine/) |
 | 🏢 | [**Interview_prep_agent**](https://github.com/isopink/Interview_prep_agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
 | 🗓️ | [**CareerLog**](https://github.com/isopink/CareerLog) | AI job-search journal built at the 2026 Codex Community Hackathon. |
