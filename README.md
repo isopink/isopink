@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <a href="https://isopink.github.io/Sigma-Engine/"><img src="assets/work-sigma.jpg" width="100%" alt="Sigma-Engine dashboard: cumulative return of the agent against the KODEX 200 index"></a><br>
+      <a href="https://isopink.github.io/sigma-engine/"><img src="assets/work-sigma.jpg" width="100%" alt="Sigma-Engine dashboard: cumulative return of the agent against the KODEX 200 index"></a><br>
       <sub><b>Sigma-Engine</b> · live dashboard: the agent's account against the KODEX 200 index</sub>
     </td>
   </tr>
@@ -80,9 +80,9 @@ becomes the next rule. I write down what works and what doesn't yet, side by sid
 | | Project | What it does |
 |---|---|---|
 | 🚶 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
-| 📈 | [**Sigma-Engine**](https://github.com/isopink/Sigma-Engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/Sigma-Engine/) |
-| 🏢 | [**Interview_prep_agent**](https://github.com/isopink/Interview_prep_agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
-| 🗓️ | [**CareerLog**](https://github.com/isopink/CareerLog) | AI job-search journal built at the 2026 Codex Community Hackathon. |
+| 📈 | [**sigma-engine**](https://github.com/isopink/sigma-engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/sigma-engine/) |
+| 🏢 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
+| 🗓️ | [**career-log**](https://github.com/isopink/career-log) | AI job-search journal built at the 2026 Codex Community Hackathon. |
 
 ### Tools I made along the way
 
