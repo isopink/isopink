@@ -62,8 +62,3 @@ becomes the next rule. I write down what works and what doesn't yet, side by sid
 | | Project | What it does |
 |---|---|---|
 | 📑 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
-
-### Now
-
-- 🚁 Same-floor drone demo in the real building, end of November 2026
-- 🤖 Object-finder robot demo, 26 November 2026
