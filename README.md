@@ -48,8 +48,8 @@
   </tr>
   <tr>
     <td colspan="2">
-      <a href="https://isopink.github.io/sigma-engine/"><img src="assets/work-sigma.jpg" width="100%" alt="Sigma-Engine dashboard: cumulative return of the agent against the KODEX 200 index"></a><br>
-      <sub><b>Sigma-Engine</b> · live dashboard: the agent's account against the KODEX 200 index</sub>
+      <a href="https://isopink.github.io/sigma-engine/"><img src="assets/work-sigma.jpg" width="100%" alt="sigma-engine dashboard: cumulative return of the agent against the KODEX 200 index"></a><br>
+      <sub><b>sigma-engine</b> · live dashboard: the agent's account against the KODEX 200 index</sub>
     </td>
   </tr>
 </table>
