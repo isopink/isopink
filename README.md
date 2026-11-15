@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lee 👋</h1>
 
 <p align="center">
-  <b>Robots and LLM agents that you can check.</b><br>
+  <b>I build things that act on the real world.</b><br>
   University of Seoul · Seoul, Korea
 </p>
 
@@ -16,24 +16,37 @@
 
 ---
 
-### How I build
+### What I care about
 
-**The model proposes, code decides.** An LLM handles the parts that need judgement.
-Every number it sees, every limit it must respect, and every claim it cites goes
-through deterministic code. Robots get the same treatment: a plan is checked after
-every step, and the robot stops when reality disagrees with it.
+A drone in a real building, a robot in a real room, an agent with a real account.
+Robots and LLM agents are the tools. The goal is the moment the system leaves the
+simulator or the prompt and has to deal with what is actually there.
 
-### Projects
+The real world does not forgive a wrong number or a missed wall, so the model
+proposes and code decides: every limit is enforced in code, every plan is checked
+against what the sensors and the data say, and the system stops when they disagree.
+
+### In the physical world
 
 | | Project | What it does |
 |---|---|---|
-| 📈 | [**Sigma-Engine**](https://github.com/isopink/Sigma-Engine) | Autonomous trading agent for Korean equities. Claude Code agents argue, a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/Sigma-Engine/) |
-| 🚁 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | Crazyflie flies room to room using an IFC-based 3D dynamic scene graph as its map. |
-| 🤖 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers objects as CLIP embeddings and drives back to them with Nav2. |
-| 🦿 | [**Sim2Real-Walking-Robot**](https://github.com/Pseudo-Lab/Sim2Real-Walking-Robot) | Pseudo-Lab S13. PPO locomotion trained in MuJoCo, deployed on low-cost bipeds, Sim-to-Real gap measured. |
+| 🚁 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | A Crazyflie flies room to room in a real building, using an IFC-based 3D dynamic scene graph as its map. |
+| 🤖 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
+| 🦿 | [**Sim2Real-Walking-Robot**](https://github.com/Pseudo-Lab/Sim2Real-Walking-Robot) | Pseudo-Lab S13. Walking policies trained in MuJoCo, run on low-cost bipeds, and the gap between the two measured. |
+
+### In markets and data
+
+| | Project | What it does |
+|---|---|---|
+| 📈 | [**Sigma-Engine**](https://github.com/isopink/Sigma-Engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/Sigma-Engine/) |
 | 🏢 | [**why-this-company**](https://github.com/isopink/Interview_prep_agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* |
-| 📑 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
 | 🗓️ | [**CareerLog**](https://github.com/isopink/CareerLog) | AI job-search journal built at the 2026 Codex Community Hackathon. |
+
+### Tools I made along the way
+
+| | Project | What it does |
+|---|---|---|
+| 📑 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
 
 ### Now
 
