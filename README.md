@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Lee 👋</h1>
 
 <p align="center">
-  <b>I build things that interact with the real world and create real value.</b><br>
   University of Seoul · Seoul, Korea
 </p>
 
