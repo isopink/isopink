@@ -69,23 +69,23 @@
 
 ### In the physical world
 
-| Project | Built with | What it does |
+| | Project | What it does |
 |---|---|---|
-| [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MuJoCo-0A0A0A?style=flat-square"> | A Crazyflie flies room to room in a real building, using an IFC-based 3D dynamic scene graph as its map. |
-| [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"> | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
-| [**open-duck-mini-v2**](https://github.com/isopink/open-duck-mini-v2) | <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"> | A 3D-printed biped walking on a Raspberry Pi. I built it, run it, and trained forward, backward and posture policies in Isaac Lab. |
+| 1 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | A Crazyflie flies room to room in a real building, using an IFC-based 3D dynamic scene graph as its map. |
+| 2 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
+| 3 | [**open-duck-mini-v2**](https://github.com/isopink/open-duck-mini-v2) | A 3D-printed biped walking on a Raspberry Pi. I built it, run it, and trained forward, backward and posture policies in Isaac Lab. |
 
 ### In the digital world
 
-| Project | Built with | What it does |
+| | Project | What it does |
 |---|---|---|
-| [**sigma-engine**](https://github.com/isopink/sigma-engine) | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/sigma-engine/) |
-| [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
-| [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
-| [**career-log**](https://github.com/isopink/career-log) | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> | AI job-search journal built at the 2026 Codex Community Hackathon. |
+| 1 | [**sigma-engine**](https://github.com/isopink/sigma-engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/sigma-engine/) |
+| 2 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
+| 3 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
+| 4 | [**career-log**](https://github.com/isopink/career-log) | AI job-search journal built at the 2026 Codex Community Hackathon. |
 
 ### Tools I made along the way
 
-| Project | Built with | What it does |
+| | Project | What it does |
 |---|---|---|
-| [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"> | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
+| 1 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
