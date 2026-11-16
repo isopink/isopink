@@ -86,7 +86,7 @@
 | 4 | [**career-log**](https://github.com/isopink/career-log) | An AI journal that turns job seekers' daily notes into next steps. *(2026 Codex Community Hackathon)* |
 | 5 | [**disaster-library-whitepaper**](https://github.com/isopink/disaster-library-whitepaper) | Old newspapers show where disasters repeat. Turns them into local disaster-prep handbooks for nearby libraries. *(National Library of Korea, Library Data Competition 2026)* |
 
-### Tools I made along the way
+### For everyone
 
 | | Project | What it does |
 |---|---|---|
