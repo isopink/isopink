@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lee 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 <p align="center">
   Three rules what I want to hold
