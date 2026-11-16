@@ -53,9 +53,8 @@
 
 ### What I care about
 
-**Technology should face people.**<br>
-**People decide.**<br>
-**Failure is data.**
+**1. Technology should face people.**<br>
+**2. Failure is data.**
 
 ### In the physical world
 
