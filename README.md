@@ -30,9 +30,13 @@
 
 <table>
   <tr>
-    <td width="300" valign="top">
-      <a href="https://github.com/isopink/3ddsg-drone-navigation"><img src="assets/work-flight.gif" width="300" alt="A Crazyflie drone flying down a dark hallway"></a><br>
+    <td width="200" valign="top">
+      <a href="https://github.com/isopink/3ddsg-drone-navigation"><img src="assets/work-flight.gif" width="200" alt="A Crazyflie drone flying down a dark hallway"></a><br>
       <sub><b>3ddsg-drone-navigation</b><br>Crazyflie flight test, at night</sub>
+    </td>
+    <td width="200" valign="top">
+      <a href="https://github.com/isopink/open-duck-mini-v2"><img src="assets/work-duck.gif" width="200" alt="Open Duck Mini v2 taking steps on a tiled floor"></a><br>
+      <sub><b>open-duck-mini-v2</b><br>Walking policy on the real robot</sub>
     </td>
     <td valign="top">
       <a href="https://github.com/isopink/steps-before-crashes"><img src="assets/work-seoul.png" width="100%" alt="Map of Seoul's legal dongs shaded by expected pedestrian crashes, with ten numbered inspection candidates"></a><br>
@@ -40,13 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top">
-      <a href="https://github.com/isopink/open-duck-mini-v2"><img src="assets/work-duck.gif" width="300" alt="Open Duck Mini v2 taking steps on a tiled floor"></a><br>
-      <sub><b>open-duck-mini-v2</b><br>Walking policy on the real robot</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+    <td colspan="3">
       <a href="https://isopink.github.io/sigma-engine/"><img src="assets/work-sigma.jpg" width="100%" alt="sigma-engine dashboard: cumulative return of the agent against the KODEX 200 index"></a><br>
       <sub><b>sigma-engine</b> · live dashboard: the agent's account against the KODEX 200 index</sub>
     </td>
