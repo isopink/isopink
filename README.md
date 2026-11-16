@@ -90,4 +90,4 @@
 
 | | Project | What it does |
 |---|---|---|
-| 1 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
+| 1 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) <img src="https://img.shields.io/badge/Under_review_by-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"> | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
