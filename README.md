@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  1. Move the world forward with technology.<br>
+  1. Push the world forward with technology.<br>
   2. Failure is data.<br>
   3. Enjoy the whole process.
 </h3>
