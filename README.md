@@ -16,7 +16,9 @@
   <br>
   <sub><b>Robotics</b></sub><br>
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/Nav2-1F6FB2?style=flat-square">
   <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/MuJoCo-0A0A0A?style=flat-square">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
   <br>
   <sub><b>Hardware</b></sub><br>
