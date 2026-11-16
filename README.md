@@ -5,7 +5,8 @@
 </p>
 
 <h3 align="center">
-  Three Rules
+  Three rules what i want to keep <br>
+  ---
   1. Push the world forward with technology.<br>
   2. Enjoy the whole process<br>
   3. Failure is data.
