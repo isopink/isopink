@@ -6,8 +6,8 @@
 
 <h3 align="center">
   1. Push the world forward with technology.<br>
-  2. Failure is data.<br>
-  3. Enjoy the whole process.
+  2. Enjoy the whole process<br>
+  3. Failure is data.
 </h3>
 
 <p align="center">
