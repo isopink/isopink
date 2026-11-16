@@ -81,7 +81,7 @@
 | | Project | What it does |
 |---|---|---|
 | 1 | [**sigma-engine**](https://github.com/isopink/sigma-engine) <a href="https://isopink.github.io/sigma-engine/"><img src="https://img.shields.io/badge/LIVE-E5534B?style=flat-square"></a> | An AI trades Korean stocks on its own. Hard risk limits block any bad order. |
-| 2 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) <img src="https://img.shields.io/badge/Awarded-Upstage_MABC_2026-D4A72C?style=flat-square"> | Turns a company's filings into interview questions. Every number is checked against the source. [Try it](https://why-this-company.onrender.com) |
+| 2 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) <img src="https://img.shields.io/badge/Awarded_by-Upstage-D4A72C?style=flat-square"> | Turns a company's filings into interview questions. Every number is checked against the source. [Try it](https://why-this-company.onrender.com) |
 | 3 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Finds the 10 Seoul neighborhoods where older pedestrians are most at risk. *(2026 Data Safe Zone Competition)* |
 | 4 | [**career-log**](https://github.com/isopink/career-log) | An AI journal that turns job seekers' daily notes into next steps. *(2026 Codex Community Hackathon)* |
 | 5 | [**disaster-library-whitepaper**](https://github.com/isopink/disaster-library-whitepaper) | Old newspapers show where disasters repeat. Turns them into local disaster-prep handbooks for nearby libraries. *(National Library of Korea, Library Data Competition 2026)* |
