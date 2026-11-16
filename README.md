@@ -5,20 +5,29 @@
 </p>
 
 <p align="center">
+  <sub><b>Languages</b></sub><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square">
+  <br>
   <sub><b>Robotics</b></sub><br>
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/Nav2-1F6FB2?style=flat-square">
-  <img src="https://img.shields.io/badge/MuJoCo-0A0A0A?style=flat-square">
   <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <br>
+  <sub><b>Simulation & CAD</b></sub><br>
+  <img src="https://img.shields.io/badge/MuJoCo-0A0A0A?style=flat-square">
+  <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white">
   <br>
   <sub><b>AI & agents</b></sub><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white">
   <br>
-  <sub><b>Software</b></sub><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <sub><b>Backend & tools</b></sub><br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
