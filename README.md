@@ -91,3 +91,4 @@
 | | Project | What it does |
 |---|---|---|
 | 1 | [**paper-review-deck**](https://github.com/isopink/paper-review-deck) <img src="https://img.shields.io/badge/Under_review_by-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white"> | A Claude skill that turns papers into a full review talk: reproduction, slides, visual QA, speaker script. |
+| 2 | [**deep-report-pipeline**](https://github.com/isopink/deep-report-pipeline) <img src="https://img.shields.io/badge/Under_review_by-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white"> | A Claude skill that researches a topic, re-checks every number against its source, and delivers a designed A4 PDF report. |
