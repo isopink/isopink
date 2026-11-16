@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  1. Technology should face people and make the world better, for good.<br>
+  1. Move the world forward with technology.<br>
   2. Failure is data.<br>
   3. Enjoy the whole process.
 </h3>
