@@ -5,9 +5,9 @@
 </p>
 
 <h3 align="center">
-  1. Technology should face people.<br>
+  1. Technology should face people and make the world better, for good.<br>
   2. Failure is data.<br>
-  3. Enjoy whole process.
+  3. Enjoy the whole process.
 </h3>
 
 <p align="center">
@@ -72,18 +72,18 @@
 
 | | Project | What it does |
 |---|---|---|
-| 1 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | A Crazyflie flies room to room in a real building, using an IFC-based 3D dynamic scene graph as its map. |
-| 2 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
-| 3 | [**open-duck-mini-v2**](https://github.com/isopink/open-duck-mini-v2) | A 3D-printed biped walking on a Raspberry Pi. I built it, run it, and trained forward, backward and posture policies in Isaac Lab. |
+| 1 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) <img src="https://img.shields.io/badge/LIVE-E5534B?style=flat-square"> | A drone flies room to room in a real building, using the building's 3D model as its map. |
+| 2 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) <img src="https://img.shields.io/badge/LIVE-E5534B?style=flat-square"> | Ask "where is my blue mug?" The robot remembers what it saw and drives back to it. |
+| 3 | [**open-duck-mini-v2**](https://github.com/isopink/open-duck-mini-v2) <img src="https://img.shields.io/badge/LIVE-E5534B?style=flat-square"> | A 3D-printed walking robot. I built it and trained it to walk in Isaac Lab. |
 
 ### In the digital world
 
 | | Project | What it does |
 |---|---|---|
-| 1 | [**sigma-engine**](https://github.com/isopink/sigma-engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/sigma-engine/) |
-| 2 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
-| 3 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
-| 4 | [**career-log**](https://github.com/isopink/career-log) | AI job-search journal built at the 2026 Codex Community Hackathon. |
+| 1 | [**sigma-engine**](https://github.com/isopink/sigma-engine) <a href="https://isopink.github.io/sigma-engine/"><img src="https://img.shields.io/badge/LIVE-E5534B?style=flat-square"></a> | An AI trades Korean stocks on its own. Hard risk limits block any bad order. |
+| 2 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) <img src="https://img.shields.io/badge/Awarded-Upstage_MABC_2026-D4A72C?style=flat-square"> | Turns a company's filings into interview questions. Every number is checked against the source. [Try it](https://why-this-company.onrender.com) |
+| 3 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Finds the 10 Seoul neighborhoods where older pedestrians are most at risk. *(2026 Data Safe Zone Competition)* |
+| 4 | [**career-log**](https://github.com/isopink/career-log) | An AI journal that turns job seekers' daily notes into next steps. *(2026 Codex Community Hackathon)* |
 
 ### Tools I made along the way
 
