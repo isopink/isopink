@@ -79,9 +79,9 @@
 
 | | Project | What it does |
 |---|---|---|
-| 🚶 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
 | 📈 | [**sigma-engine**](https://github.com/isopink/sigma-engine) | Trading agent for Korean equities. Every order comes from the AI, and a hook blocks any order that breaks a risk limit. [Live dashboard](https://isopink.github.io/sigma-engine/) |
 | 🏢 | [**interview-prep-agent**](https://github.com/isopink/interview-prep-agent) | Interview prep from DART filings. Rules pick the findings, Solar Pro writes, a verifier checks every number. *(Upstage MABC 2026 final)* [Live service](https://why-this-company.onrender.com) |
+| 🚶 | [**steps-before-crashes**](https://github.com/isopink/steps-before-crashes) | Where older people walk vs. where they get hit, across Seoul's 467 legal dongs. Closed mobile and crash data pick the 10 dongs to inspect first. *(2026 Data Safe Zone Competition)* |
 | 🗓️ | [**career-log**](https://github.com/isopink/career-log) | AI job-search journal built at the 2026 Codex Community Hackathon. |
 
 ### Tools I made along the way
