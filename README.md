@@ -75,7 +75,7 @@
 | 🤖 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
 | 🦆 | [**open-duck-mini-v2**](https://github.com/isopink/open-duck-mini-v2) | A 3D-printed biped walking on a Raspberry Pi. I built it, run it, and trained forward, backward and posture policies in Isaac Lab. |
 
-### In cities, markets and data
+### In the digital world
 
 | | Project | What it does |
 |---|---|---|
