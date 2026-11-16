@@ -6,7 +6,8 @@
 
 <h3 align="center">
   1. Technology should face people.<br>
-  2. Failure is data.
+  2. Failure is data.<br>
+  3. Enjoy whole process
 </h3>
 
 <p align="center">
