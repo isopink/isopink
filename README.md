@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Lee 👋</h1>
 
 <p align="center">
-  University of Seoul · Seoul, Korea
+  Three rules what I want to hold
 </p>
 
 <h3 align="center">
-  Three rules what I want to hold <br><br>
   1. Push the world forward with technology.<br>
   2. Enjoy the whole process<br>
   3. Failure is data.
