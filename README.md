@@ -26,12 +26,6 @@
 </p>
 
 ---
-
-### Now <sub><sub>November 2026</sub></sub>
-
-- 🤖 Getting [object-finder-bot](https://github.com/isopink/object-finder-bot) from tests onto the robot: a TurtleBot3 with a Jetson on board, live demo on **Nov 26**.
-- 🚁 First route flight of [3ddsg-drone-navigation](https://github.com/isopink/3ddsg-drone-navigation) through a real building, guided by its scene graph. Lab demo at **the end of November**.
-
 ### Snapshots
 
 <table>
@@ -73,7 +67,6 @@ becomes the next rule. I write down what works and what doesn't yet, side by sid
 | 🚁 | [**3ddsg-drone-navigation**](https://github.com/isopink/3ddsg-drone-navigation) | A Crazyflie flies room to room in a real building, using an IFC-based 3D dynamic scene graph as its map. |
 | 🤖 | [**object-finder-bot**](https://github.com/isopink/object-finder-bot) | "Where is the blue mug?" A TurtleBot3 remembers what it saw and drives back to it, then checks the object is still there. |
 | 🦆 | [**open-duck-mini-v2**](https://github.com/isopink/open-duck-mini-v2) | A 3D-printed biped walking on a Raspberry Pi. I built it, run it, and trained forward, backward and posture policies in Isaac Lab. |
-| 🦿 | [**Sim2Real-Walking-Robot**](https://github.com/Pseudo-Lab/Sim2Real-Walking-Robot) | Pseudo-Lab S13. Walking policies trained in MuJoCo, run on low-cost bipeds, and the gap between the two measured. |
 
 ### In cities, markets and data
 
