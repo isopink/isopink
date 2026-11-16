@@ -53,16 +53,9 @@
 
 ### What I care about
 
-**Value lives outside the screen.** A robot that finds the thing you lost, a drone
-that gets through a real building, a service that gets someone ready for an interview.
-Robots and LLM agents are the tools. What counts is whether something real got better.
-
-**People make the decisions.** The system brings the evidence: the numbers, the source,
-what it saw and where. The person chooses. A good tool leaves people better at deciding,
-not out of the loop.
-
-**Failure is data.** Every fall, every lost flight, every wrong guess gets recorded and
-becomes the next rule. I write down what works and what doesn't yet, side by side.
+**Technology should face people.**<br>
+**People decide.**<br>
+**Failure is data.**
 
 ### In the physical world
 
